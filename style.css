@@ -1,6 +1,12 @@
 html, body {
   margin: 0;
   padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
 }
 canvas {
   display: block;
