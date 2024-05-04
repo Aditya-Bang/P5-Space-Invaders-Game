@@ -81,7 +81,7 @@ function setup() {
   }
   
   // all buttons have same x dimensions
-  xButton = {x1: width/6, x2: width*5/6};
+  xButton = {x1: width/8, x2: width*7/8};
   
   // color and hp initialization
   colHP = [color('#FF0000'), color('#FF8C00'), color('#FFFF00'), color('#7CFC00')];
